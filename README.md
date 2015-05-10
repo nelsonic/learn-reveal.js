@@ -57,3 +57,10 @@ The quick start video spends most of the time showing people how to install node
 http://harpjs.com/docs/quick-start
 
 (also their [youtube chanel](https://www.youtube.com/channel/UCjMFLksOOahVB0xCupy8oeA/videos) has exactly *one* video which was uploaded in *Dec 2013* ...)
+
+
+## Useful Links
+
++ List of "***Five Simple Rules***" for developing using harp.js:
+http://harpjs.com/docs/development/rules
++ **Public and Private Assets**: http://harpjs.com/docs/development/public
