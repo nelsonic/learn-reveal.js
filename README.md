@@ -1,66 +1,32 @@
-# Learn harp.js
+# Learn Impresss.js
 
-A quick introduction/tutorial on how to use harp.js to build/publish static websites.
+A quick introduction/tutorial on how to use impress.js to _communicate visually_!
 
 ## Why?
 
-To simplify publishing online content.
+To create visually appealing presentations that captivate your audience
+and help to convey your message.
+
+My main reason for learning how to use impress.js is that it allows me
+to _version-control_ my presentation(s) which means that others can collaborate
+with history/accountability.
+
 
 
 ## What?
 
-> "*Harp is a* ***static web server*** with ***built-in preprocessing***" ~ http://harpjs.com
+> "_Impress.js is a presentation framework based on the power
+of CSS3 transforms and transitions in modern browsers
+and inspired by the idea behind prezi.com._" http://impress.github.io/impress.js
 
-Or in *English*: harp lets you build websites with easy tools
-(*but still requires you to write some code...*)
+Or in *English*: impress.js lets you build attractive and engaging presentations
+using HTML, CSS & JavaScript code that can be shared as a website.
 
 ## How?
 
-### Installation
-
-![why sudo install?](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/harp-encourages-sudo-install.png)
-
-I was *immediately* ***put off by*** the fact that Harp.js encourages people
-to install their module using ***sudo***!
-
-Thankfully, the install *does* work *without sudo*.
-
-```sh
-npm install harp -g
-```
-
-(The module creators/maintainers have probably just included the
-sudo to avoid getting more "*unable to install...*" issues)
-
-![works without sudo](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/harp--npm-install-harp-g.png)
-
-### Initialise
-
-if you try to init in an *existing* directory, you get an error:
-
-![does not work for existing blogs](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/harp-does-not-work-for-existing-blogs.png)
-
-So you need to *specify* the name of a *new* directory:
-
-![harp init](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/harp-init-nelsonic.png)
-
-
-That will create a directory with the following files:
-
-![harp init creates files](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/harp-defaults-to-using-jade-and-less.png)
-
-
-### Quick Start
-
-The quick start video spends most of the time showing people how to install node.js ... then only goes thru the first step of starting with harp. hardly an introduction...
-
-http://harpjs.com/docs/quick-start
-
-(also their [youtube chanel](https://www.youtube.com/channel/UCjMFLksOOahVB0xCupy8oeA/videos) has exactly *one* video which was uploaded in *Dec 2013* ...)
+### Installation?
 
 
 ## Useful Links
 
-+ List of "***Five Simple Rules***" for developing using harp.js:
-http://harpjs.com/docs/development/rules
-+ **Public and Private Assets**: http://harpjs.com/docs/development/public
++ Demo: http://impress.github.io/impress.js
