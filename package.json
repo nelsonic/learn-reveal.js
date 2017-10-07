@@ -1,0 +1,32 @@
+{
+  "name": "learn-impress.js",
+  "version": "1.0.0",
+  "description": "A quick introduction/tutorial on how to use impress.js to communicate visually!",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsonic/learn-impress.js/issues"
+  },
+  "homepage": "https://github.com/nelsonic/learn-impress.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "live-server --port=8000"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/nelsonic/learn-impress.js.git"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "keywords": [
+    "Impress.js",
+    "Tutorial",
+    "How-to",
+    "Learn",
+    "Presentations",
+    "Prezi",
+    "beginner"
+  ],
+  "author": "@nelsonic <nelson+github@dwyl.com> (https://github.com/nelsonic)"
+}
